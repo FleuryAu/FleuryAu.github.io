@@ -1,0 +1,36 @@
+
+html {
+	font-size: 10px;
+	font-family: 'MuseoModerno', cursive;
+	background: #D98ACA
+}
+
+body {
+	width: 600px
+	margin: 0 auto;
+	background-color: #99F76B;
+	padding: 0px 20px 20px 20px;
+
+	border: 5px solid black;	
+}
+
+h1 {
+	font-size: 6em;
+	text-align: center;
+	margin: 0;
+	padding: 20px 0;
+	color: #570C36;
+	text-shadow: 3px 3px 5px red;
+}
+
+p, li {
+	font-size:  2.5em;
+	line-height: 2;
+	letter-spacing: 1px;
+	color: #8A191C
+}
+
+img {
+	display: block;
+	margin: 0 auto;
+}
